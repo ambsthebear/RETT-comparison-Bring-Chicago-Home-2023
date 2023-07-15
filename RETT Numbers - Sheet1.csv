@@ -1,33 +1,33 @@
 City,Amount of Sale in Millions (USD),RETT,Sources
-Chicago (current),$1M,1.05,https://www.chicago.gov/city/en/depts/fin/supp_info/revenue/tax_list/real_property_transfertax.html
-Chicago (current),$5M,1.05,
-Chicago (current),$10M,1.05,
-Chicago (current),$15M,1.05,
-Chicago (with Bring Chicago Home passed),$1M,2.65,https://www.bringchicagohome.org/what-is-bring-chicago-home/
-Chicago (with Bring Chicago Home passed),$5M,2.65,
-Chicago (with Bring Chicago Home passed),$10M,2.65,
-Chicago (with Bring Chicago Home passed),$15M,2.65,
-New York City,$1M,1,https://blocksandlots.com/nyc-mansion-tax-heres-what-you-need-to-know/
-New York City,$5M,2.25,
-New York City,$10M,3.25,
-New York City,$15M,3.5,
-Los Angeles,$1M,0.45,https://www.lavote.gov/home/recorder/property-document-recording/documentary-transfer-taxes/general-info
-Los Angeles,$5M,4.45,
-Los Angeles,$10M,5.95,
-Los Angeles,$15M,5.95,
-Boston,$1M,0.46,"https://casaplorer.com/transfer-tax-calculator, https://www.wgbh.org/news/politics/2022/03/02/boston-city-council-approves-real-estate-transfer-tax-on-sales-over-2m"
-Boston,$5M,2,
-Boston,$10M,2,
-Boston,$15M,2,
-Washington DC,$1M,1.45,"https://cfo.dc.gov/page/tax-rates-and-revenues-property-taxes#:~:text=1.1%20%25%20of%20consideration%20or%20fair,transfer%20is%20greater%20than%20%24400%2C000"
-Washington DC,$5M,1.45,
-Washington DC,$10M,1.45,
-Washington DC,$15M,1.45,
-Seattle,$1M,1.28,
-Seattle,$5M,2.75,https://dor.wa.gov/sites/default/files/2023-02/840001Ae_SingLoc_March2023.pdf?uid=6478be185782a
-Seattle,$10M,3,
-Seattle,$15M,3,
-San Francisco,$1M,0.75,https://sfassessor.org/recorder-information/recording-document/transfer-tax
-San Francisco,$5M,2.25,
-San Francisco,$10M,5.5,
-San Francisco,$15M,5.5,
+Chicago (current),1,1.05,https://www.chicago.gov/city/en/depts/fin/supp_info/revenue/tax_list/real_property_transfertax.html
+Chicago (current),5,1.05,
+Chicago (current),10,1.05,
+Chicago (current),15,1.05,
+Chicago (with Bring Chicago Home passed),1,2.65,https://www.bringchicagohome.org/what-is-bring-chicago-home/
+Chicago (with Bring Chicago Home passed),5,2.65,
+Chicago (with Bring Chicago Home passed),10,2.65,
+Chicago (with Bring Chicago Home passed),15,2.65,
+New York City,1,1,https://blocksandlots.com/nyc-mansion-tax-heres-what-you-need-to-know/
+New York City,5,2.25,
+New York City,10,3.25,
+New York City,15,3.5,
+Los Angeles,1,0.45,https://www.lavote.gov/home/recorder/property-document-recording/documentary-transfer-taxes/general-info
+Los Angeles,5,4.45,
+Los Angeles,10,5.95,
+Los Angeles,15,5.95,
+Boston,1,0.46,"https://casaplorer.com/transfer-tax-calculator, https://www.wgbh.org/news/politics/2022/03/02/boston-city-council-approves-real-estate-transfer-tax-on-sales-over-2m"
+Boston,5,2,
+Boston,10,2,
+Boston,15,2,
+Washington DC,1,1.45,"https://cfo.dc.gov/page/tax-rates-and-revenues-property-taxes#:~:text=1.1%20%25%20of%20consideration%20or%20fair,transfer%20is%20greater%20than%20%24400%2C000"
+Washington DC,5,1.45,
+Washington DC,10,1.45,
+Washington DC,15,1.45,
+Seattle,1,1.28,
+Seattle,5,2.75,https://dor.wa.gov/sites/default/files/2023-02/840001Ae_SingLoc_March2023.pdf?uid=6478be185782a
+Seattle,10,3,
+Seattle,15,3,
+San Francisco,1,0.75,https://sfassessor.org/recorder-information/recording-document/transfer-tax
+San Francisco,5,2.25,
+San Francisco,10,5.5,
+San Francisco,15,5.5,
